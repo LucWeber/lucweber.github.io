@@ -17,6 +17,6 @@ I obtained my MSc. in [Brain and Cognitive Sciences](https://gss.uva.nl/content/
 
 
 Recent News
-======
+------
 
 -
