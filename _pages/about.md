@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD-student at Computational Linguistics and Linguistic Theory [(COLT)](https://www.upf.edu/web/colt) research group, [University of Pompeu Fabra](https://www.upf.edu/) (Barcelona, Spain).
+I am a PhD-student at Computational Linguistics and Linguistic Theory ([COLT)](https://www.upf.edu/web/colt)) research group, [University of Pompeu Fabra](https://www.upf.edu/) (Barcelona, Spain).
 
 I work with my advisor [Dr. Elia Bruni](https://eliabruni.github.io/) and [Dieuwke Hupkes](http://dieuwkehupkes.nl/) on the interpretability of neural language models.
 
