@@ -17,5 +17,5 @@ Previously, I obtained my MSc. in [Brain and Cognitive Sciences](https://www.uva
 Recent News
 ------
 
-- *January 11st, 2021* - Our submission '[Language Modelling as a Multi-Task Problem'](https://lucweber.github.io/)' was accepted at EACL 2021 🎉
+- *January 11st, 2021* - Our submission '[Language Modelling as a Multi-Task Problem](https://lucweber.github.io/)' was accepted at EACL 2021 🎉
 - *July 21st, 2020* - I am attending LxMLS 2020
