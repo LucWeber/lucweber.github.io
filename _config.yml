@@ -86,7 +86,7 @@ author:
   location         : "Barcelona, Spain"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : https://scholar.google.com/citations?user=LGnAvXkAAAAJ&hl=en&oi=ao
   email            : "lucas.weber@upf.edu"
   researchgate     : #"https://www.researchgate.net/profile/Lucas_Weber3"
   uri              :
