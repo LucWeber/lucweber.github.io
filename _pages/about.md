@@ -17,6 +17,6 @@ Previously, I obtained my MSc. in [Brain and Cognitive Sciences](https://www.uva
 Recent News
 ------
 
-- *April 19th, 2021* - I am around at __EACL 2021__. Ping me in rocket chat @lucas.weber if you want to get in contact or join the __live-session / oral presentation__ on our [paper](https://arxiv.org/abs/2101.11287) on the __21st of April (Wednesday) at 10 CEST__ 👋
+- *April 19th, 2021* - I am around at __EACL 2021__. Ping me in RocketChat *@lucas.weber* if you want to get in contact or join the __live-session / oral presentation__ on our [paper](https://arxiv.org/abs/2101.11287) on the __21st of April (Wednesday) at 10 CEST__ 👋
 - *January 11st, 2021* - Our submission '[Language Modelling as a Multi-Task Problem](https://arxiv.org/abs/2101.11287)' was accepted at EACL 2021 🎉
 - *July 21st, 2020* - I am attending LxMLS 2020
