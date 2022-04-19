@@ -16,7 +16,7 @@ Previously, I obtained my MSc. in [Brain and Cognitive Sciences](https://www.uva
 
 Recent News
 ------
-- *April 11th - 14th, 2022* - We ([COLT-UPF](https://www.upf.edu/web/colt) and [DMG-UvA](https://dmg-illc.github.io/dmg/)) are organizing [REST-CL 2022](https://sites.google.com/view/rest-cl/home) for discussion research 🔬 with follow PhD-students from all over Europe 🇪🇺.
+- *April 11th - 14th, 2022* - We ([COLT-UPF](https://www.upf.edu/web/colt) and [DMG-UvA](https://dmg-illc.github.io/dmg/)) are organizing [__REST-CL 2022__](https://sites.google.com/view/rest-cl/home) for discussion research 🔬 with follow PhD-students from all over Europe 🇪🇺.
 - *March 15th, 2022* - I am invited to give a talk ('Teaching with Language Commentaries') in the [__CoML-group__](https://cognitive-ml.fr/) at ENS-Paris.
 - *July 30th, 2021* - I am presenting a __poster__ ('Meeting Formal Linguistics and Optimisation') at the __ELLIS-NLP2021__ workshop. Hope to see you there! 👋
 - *April 19th, 2021* - I am around at __EACL 2021__. Ping me in RocketChat *@lucas.weber* if you want to get in contact or join the __live-session / oral presentation__ on our [paper](https://arxiv.org/abs/2101.11287) on the __21st of April (Wednesday) at 10 CEST__ 👋
