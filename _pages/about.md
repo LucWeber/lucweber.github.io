@@ -16,8 +16,9 @@ Previously, I obtained my MSc. in [Brain and Cognitive Sciences](https://www.uva
 
 Recent News
 ------
-- *Octobre 10th, 2023* - Our contribution to Genbench '[The ICL consistency test](lucweber.github.io) (preprint comes soon)' was accepted for the first edition of the Genbench Workshop 👀
-- *Octobre 6th, 2023* - Our submission '[Mind the instructions: a holistic evaluation of consistency and interactions in prompt-based learning](lucweber.github.io) (preprint comes soon)' was accepted at CONLL 2024 🎉
+- *December 7th, 2023* - '[Mind the instructions](https://aclanthology.org/2023.conll-1.20/)' received an hounorable mention (top 4 papers) at CONLL 2023.
+- *Octobre 10th, 2023* - Our contribution to Genbench '[The ICL consistency test](https://arxiv.org/abs/2312.04945)' was accepted for the first edition of the Genbench Workshop 👀
+- *Octobre 6th, 2023* - Our submission '[Mind the instructions: a holistic evaluation of consistency and interactions in prompt-based learning](https://aclanthology.org/2023.conll-1.20/)' was accepted at CONLL 2023 🎉
 - *June 30th - July 3rd, 2023* - Another round of REST-CL [__REST-CL 2023__](https://sites.google.com/view/rest-cl-2023/home?authuser=0): Together, [COLT-UPF](https://www.upf.edu/web/colt) and [DMG-UvA](https://dmg-illc.github.io/dmg/)), we organised another memorable event in which we discussed research 🔬 with a diverse group of PhD-students from all over Europe 🇪🇺, the UK 🇬🇧 and the US 🇺🇸.
 - *April 11th - 14th, 2022* - We ([COLT-UPF](https://www.upf.edu/web/colt) and [DMG-UvA](https://dmg-illc.github.io/dmg/)) are organizing [__REST-CL 2022__](https://sites.google.com/view/rest-cl/home) for discussing research 🔬 with follow PhD-students from all over Europe 🇪🇺.
 - *March 15th, 2022* - I am invited to give a talk ('Teaching with Language Commentaries') in the [__CoML-group__](https://cognitive-ml.fr/) at ENS-Paris.
