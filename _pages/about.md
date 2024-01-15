@@ -16,7 +16,7 @@ Previously, I obtained my MSc. in [Brain and Cognitive Sciences](https://www.uva
 
 Recent News
 ------
-- *January 11th, 2024* - The ICL consistency data is now also available via huggingface's dataset hub (see [dataset](https://huggingface.co/datasets/LucasWeber/icl_consistency_test)
+- *January 11th, 2024* - The ICL consistency data is now also available via huggingface's dataset hub (see [dataset](https://huggingface.co/datasets/LucasWeber/icl_consistency_test))
 - *December 7th, 2023* - '[Mind the instructions](https://aclanthology.org/2023.conll-1.20/)' received an hounorable mention (top 4 papers) at CONLL 2023.
 - *Octobre 10th, 2023* - Our contribution to Genbench '[The ICL consistency test](https://arxiv.org/abs/2312.04945)' was accepted for the first edition of the Genbench Workshop 👀
 - *Octobre 6th, 2023* - Our submission '[Mind the instructions: a holistic evaluation of consistency and interactions in prompt-based learning](https://aclanthology.org/2023.conll-1.20/)' was accepted at CONLL 2023 🎉
