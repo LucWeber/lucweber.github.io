@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD-candidate in the [COLT](https://www.upf.edu/web/colt)-research group at [University of Pompeu Fabra](https://www.upf.edu/). With my doctoral advisors [Dr. Elia Bruni](https://eliabruni.github.io/) and [Dr. Dieuwke Hupkes](http://dieuwkehupkes.nl/), I work on understanding the learning dynamics in neural language models and how we can influence them. I am especially interested in 'less-reductionist' interpretability methods.
+I am a PhD-candidate in the [COLT](https://www.upf.edu/web/colt)-research group at [University of Pompeu Fabra](https://www.upf.edu/). With my doctoral advisors [Dr. Elia Bruni](https://eliabruni.github.io/) and [Dr. Dieuwke Hupkes](http://dieuwkehupkes.nl/). I work on understanding the learning dynamics in neural language models and how we can influence them. I am especially interested in 'less-reductionist' interpretability methods. Also, I started to work on (efficient) **language model benchmarking**.
 
 Previously, I obtained my MSc. in [Brain and Cognitive Sciences](https://www.uva.nl/en/programmes/research-masters/brain-and-cognitive-sciences/brain-and-cognitive-sciences.html?origin=5BOaRAofTjCccATraJp2XA) from the [University of Amsterdam](https://www.uva.nl/en) with my thesis work conducted at [MRC-CBU in Cambridge](https://www.mrc-cbu.cam.ac.uk/). My BSc. in [Psychology](https://psychologie.univie.ac.at/en/) comes from the [University of Vienna](https://www.univie.ac.at/en/).
 
 
-
 Recent News
 ------
+- *February 15th, 2024* - Our preprint for **tinyBenchmarks: evaluating LLMs with fewer examples is out**. The data for efficient benchmarking of LLMs is available on 🤗 (see [paper](https://arxiv.org/abs/2402.14992) | [data](https://huggingface.co/tinyBenchmarks)). Happy Benchmarking!
 - *January 11th, 2024* - The ICL consistency data is now also available via huggingface's dataset hub (see [dataset](https://huggingface.co/datasets/LucasWeber/icl_consistency_test))
 - *December 7th, 2023* - '[Mind the instructions](https://aclanthology.org/2023.conll-1.20/)' received an hounorable mention (top 4 papers) at CONLL 2023.
 - *Octobre 10th, 2023* - Our contribution to Genbench '[The ICL consistency test](https://arxiv.org/abs/2312.04945)' was accepted for the first edition of the Genbench Workshop 👀
