@@ -16,7 +16,7 @@ Before my PhD-studies, I obtained a MSc. in [Brain and Cognitive Sciences](https
 
 Recent News
 ---
-- *May 21th, 2024* - I accepted a position in the NLP team at [Fraunhofer IIS](https://www.iis.fraunhofer.de/en.html).
+- *May 21th, 2024* - I accepted a position at [Fraunhofer IIS](https://www.iis.fraunhofer.de/en.html).
 - *May 16th, 2024* - Our paper for **Interpretability of Language Models via Task Spaces** got accepted at ACL 2024! Pre-print will follow soon.
 - *May 3rd, 2024* - I successfully defended my PhD-thesis **Interpreting the Learning Dynamics of Language Models**. Thanks to the wonderful Dr. Raffaella Bernardi, Dr. Denis Paperno and Dr. Barbara Plank for serving on my defense committee!
 - *May 2nd, 2024* - Our paper for **tinyBenchmarks: evaluating LLMs with fewer examples** got accepted at ICML 2024! The data for efficient benchmarking of LLMs is available on 🤗 ([data](https://huggingface.co/tinyBenchmarks)).
