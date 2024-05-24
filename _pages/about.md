@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD researcher working on interpretability and efficient benchmarking of language models.  
+I am a PhD researcher working on interpretability and benchmarking of language models.  
 
 Previously, I was a PhD student in the [COLT](https://www.upf.edu/web/colt)-research group at [University of Pompeu Fabra](https://www.upf.edu/) supervised by [Dr. Elia Bruni](https://eliabruni.github.io/) and [Dr. Dieuwke Hupkes](http://dieuwkehupkes.nl/).
 Before my PhD-studies, I obtained a MSc. in [Brain and Cognitive Sciences](https://www.uva.nl/en/programmes/research-masters/brain-and-cognitive-sciences/brain-and-cognitive-sciences.html?origin=5BOaRAofTjCccATraJp2XA) from the [University of Amsterdam](https://www.uva.nl/en) with my thesis work conducted at [MRC-CBU in Cambridge](https://www.mrc-cbu.cam.ac.uk/). My BSc. in [Psychology](https://psychologie.univie.ac.at/en/) comes from the [University of Vienna](https://www.univie.ac.at/en/).
@@ -16,10 +16,10 @@ Before my PhD-studies, I obtained a MSc. in [Brain and Cognitive Sciences](https
 
 Recent News
 ---
-- *May 21th, 2024* - I accepted a position at [Fraunhofer IIS](https://www.iis.fraunhofer.de/en.html).
-- *May 16th, 2024* - Our paper for **Interpretability of Language Models via Task Spaces** got accepted at ACL 2024! Pre-print will follow soon.
+<! --- *May 21th, 2024* - I accepted a position at [Fraunhofer IIS](https://www.iis.fraunhofer.de/en.html). -->
+- *May 16th, 2024* - Our paper **Interpretability of Language Models via Task Spaces** got accepted at ACL 2024! Pre-print will follow soon.
 - *May 3rd, 2024* - I successfully defended my PhD-thesis **Interpreting the Learning Dynamics of Language Models**. Thanks to the wonderful Dr. Raffaella Bernardi, Dr. Denis Paperno and Dr. Barbara Plank for serving on my defense committee!
-- *May 2nd, 2024* - Our paper for **tinyBenchmarks: evaluating LLMs with fewer examples** got accepted at ICML 2024! The data for efficient benchmarking of LLMs is available on 🤗 ([data](https://huggingface.co/tinyBenchmarks)).
+- *May 2nd, 2024* - Our paper  **tinyBenchmarks: evaluating LLMs with fewer examples** got accepted at ICML 2024! The data for efficient benchmarking of LLMs is available on 🤗 ([data](https://huggingface.co/tinyBenchmarks)).
 - *February 15th, 2024* - Our preprint for **tinyBenchmarks: evaluating LLMs with fewer examples** is out. The data for efficient benchmarking of LLMs is available on 🤗 (see [paper](https://arxiv.org/abs/2402.14992) \| [data](https://huggingface.co/tinyBenchmarks)). Happy Benchmarking!
 - *January 11th, 2024* - The ICL consistency data is now also available via huggingface's dataset hub (see [dataset](https://huggingface.co/datasets/LucasWeber/icl_consistency_test))
 - *December 7th, 2023* - '[Mind the instructions](https://aclanthology.org/2023.conll-1.20/)' received an hounorable mention (top 4 papers) at CONLL 2023.
