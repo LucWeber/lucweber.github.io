@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Lucas Weber"
   avatar           : "IMG_39142_crop.jpg" 
-  bio              : "PhD-candidate in Computational Linguistics"
-  location         : "Barcelona, Spain 🇪🇺"
+  bio              : "Post-doctoral applied researcher"
+  location         : "Erlangen 🇪🇺"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : https://scholar.google.com/citations?user=LGnAvXkAAAAJ&hl=en&oi=ao
-  email            : "lucas.weber@upf.edu"
+  email            : "lucasweber0@proton.me"
   researchgate     : #"https://www.researchgate.net/profile/Lucas_Weber3"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@lucweberr"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
